@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sea_Island
+  m_Shader: {fileID: 4800000, guid: 14a97d4a0d7506442a3f63b54b20c664, type: 3}
+  m_ShaderKeywords: _LIGHT_EXPOSURE_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BRDF: 0
+    - _Brightness: 0.28
+    - _BumpScale: 1
+    - _CubeMap: 0.74
+    - _Curvature: 0.13
+    - _Cutoff: 0.5
+    - _Debug: 0
+    - _Depth: 0
+    - _DepthRay: 0
+    - _Depth_Rays: 1.44
+    - _Derivative: 0.002
+    - _DetailNormalMapScale: 1
+    - _Displacement: -0.2
+    - _DistanceHaze: 0
+    - _Distribution: 0
+    - _DstBlend: 0
+    - _FieldBrightness: 0.64
+    - _Fresnel: 0
+    - _Geometry: 0
+    - _Glossiness: 0.5
+    - _Half: 0
+    - _Half_Direction: 0
+    - _Half_Exposure: 0
+    - _Haze: 0.1
+    - _Height: -0.03
+    - _Light: 0
+    - _Light_Direction: 0
+    - _Light_Exposure: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _Nmod: 0.5
+    - _Noise: 0.0009
+    - _Normal: -0.28
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Reflection: 0.414
+    - _Refractive_Index: 0
+    - _Resolution: 65
+    - _Result: 1
+    - _Roughness: 0.15
+    - _SrcBlend: 1
+    - _Tangent: 0
+    - _Topography: 0
+    - _Translation: -10
+    - _UV: 0
+    - _UVSec: 0
+    - _View: 0
+    - _View_Direction: 0
+    - _View_Exposure: 0
+    - _Waves: -0.03
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Frequency: {r: -6.92, g: 32, b: 3, a: -6.69}
+    - _Height: {r: -0.74, g: 0.78, b: 1.14, a: -0.71}
+    - _Scale: {r: 1, g: 0.32, b: 0.5, a: 0.05}
+    - _SkyColor: {r: 0.8602941, g: 0.7717344, b: 0.63889486, a: 1}
+    - _SunColor: {r: 0.8753132, g: 0.9411765, b: 0.4636678, a: 0}
+    - _Velocity: {r: 3, g: -3.16, b: 3, a: 1}
+    - _WaterColor: {r: 0.3966263, g: 0.93978935, b: 0.9632353, a: 0}
+    - _Waves: {r: 0.3, g: -0.27, b: -1.15, a: 1}
