@@ -9,10 +9,10 @@ The project uses various models in order to display stunning VR scene made using
 ## Project Screenshots
 ```
 Initial Project plan(preferred using paint over actually sketching it down)
+```
 
 ![Picture](https://github.com/aarshad786/Udacity-PuzzlerVR/blob/master/rough%20Sketch.jpg)
 
-```
 
 ![Picture](https://github.com/aarshad786/Udacity-PuzzlerVR/blob/master/Screenshots/4x4Matrix.png)
 ![Picture](https://github.com/aarshad786/Udacity-PuzzlerVR/blob/master/Screenshots/After_Trees.png)
