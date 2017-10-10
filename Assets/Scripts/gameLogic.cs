@@ -51,6 +51,10 @@ public class gameLogic : MonoBehaviour {
     private GameObject[] Level3Stones = new GameObject[4];
     private GameObject[] Level4Stones = new GameObject[4];
 
+    private Vector3 hopPoint1InitialPosition;
+    private Vector3 hopPoint2InitialPosition;
+    private Vector3 hopPoint3InitialPosition;
+
     void Awake()
     {
 
@@ -64,6 +68,9 @@ public class gameLogic : MonoBehaviour {
         Level2Stones = stonesArray.Slice(4, 8);
         Level3Stones = stonesArray.Slice(8, 12);
         Level4Stones = stonesArray.Slice(12, 16);
+        hopPoint1InitialPosition = hopPoint1.transform.position;
+        hopPoint2InitialPosition = hopPoint2.transform.position;
+        hopPoint3InitialPosition = hopPoint3.transform.position;
         portalPoof.SetActive(false);
         gameStartLogic();
     }
@@ -312,6 +319,9 @@ public class gameLogic : MonoBehaviour {
 
     void GoBackandShowPath()
     {
+        hopPoint1.transform.position = hopPoint1InitialPosition;
+        hopPoint2.transform.position = hopPoint2InitialPosition;
+        hopPoint3.transform.position = hopPoint3InitialPosition;
         levelCounter = 0;
         MbGameOver = false;
         iTween.MoveTo(MobjCamera,
