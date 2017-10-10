@@ -7,31 +7,35 @@ The project uses various models in order to display stunning VR scene made using
 
 
 ## Project Screenshots
+```
+Initial Project plan(preferred using paint over actually sketching it down)
+
+![Picture](https://github.com/aarshad786/Udacity-PuzzlerVR/blob/master/rough%20Sketch.jpg)
+
+```
+
 ![Picture](https://github.com/aarshad786/Udacity-PuzzlerVR/blob/master/Screenshots/4x4Matrix.png)
 ![Picture](https://github.com/aarshad786/Udacity-PuzzlerVR/blob/master/Screenshots/After_Trees.png)
 ![Picture](https://github.com/aarshad786/Udacity-PuzzlerVR/blob/master/Screenshots/Papyrus.png)
 ![Picture](https://github.com/aarshad786/Udacity-PuzzlerVR/blob/master/Screenshots/portal.png)
 ![Picture](https://github.com/aarshad786/Udacity-PuzzlerVR/blob/master/Screenshots/puzzle_Sample.png)
-```
-Initial Project plan(preferred using paint over actually sketching it down)
-```
-![Picture](https://github.com/aarshad786/Udacity-PuzzlerVR/blob/master/rough%20Sketch.jpg)
+
 
 ## Project Requirements
 ### The Write Up
-1.) All media renders properly - done
-2.) Does the student have an introduction for their write-up?
-3.) Does the student show their finished result in detail?
-4.) Does the student show their process work in their write-up?
-5.) Does the student showcase user testing and iteration in their write-up?
-6.) Does the student have a conclusion or next steps section in their write-up?
-7.) Does the write-up have a clearly defined visual structure with a title and section headers?
-8.) Does the write-up include:
+* All media renders properly - done
+* Does the student have an introduction for their write-up?
+* Does the student show their finished result in detail?
+* Does the student show their process work in their write-up?
+* Does the student showcase user testing and iteration in their write-up?
+* Does the student have a conclusion or next steps section in their write-up?
+* Does the write-up have a clearly defined visual structure with a title and section headers?
+* Does the write-up include:
     * Two or more screenshots
     * Video of final project
     * One or more sketches
-9.) Is the write-up of reasonable length? - close to 5 mins
-10.) Is the puzzler project is clearly articulated over the course of the write-up?
+* Is the write-up of reasonable length? - close to 5 mins
+* Is the puzzler project is clearly articulated over the course of the write-up?
 
 
 ### Aarshad's Fourth VR Project - Cross the River VR (Puzzler)
